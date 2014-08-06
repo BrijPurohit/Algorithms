@@ -16,20 +16,17 @@ public class Linearsearch
         int array[]={3,1,9,8,9,0,2,10};  // Array initialization;
         Scanner s= new Scanner(System.in) ;
         int count=0 , i;
-        LinkedList l = new LinkedList();
+        LinkedList<Integer> l = new LinkedList<Integer>();
 
         System.out.println(" Enter number to be searched:");
         int a= s.nextInt();
 
         for(i=0;i<8;++i)
-        {
-            if (array[i]== a)
+            if (array[i] == a)
             {
-                l.add(i+1);
+                l.add(i + 1);
                 ++count;
             }
-
-        }
         if (count==0)
             System.out.println("Element is not present in the array!!");
         else
