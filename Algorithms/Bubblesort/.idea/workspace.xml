@@ -66,7 +66,7 @@
       <file leaf-file-name="Bubblesort.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Bubblesort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="67" selection-start="585" selection-end="585" vertical-scroll-proportion="0.92134833">
+            <state line="32" column="32" selection-start="718" selection-end="718" vertical-scroll-proportion="0.7752809">
               <folding />
             </state>
           </provider>
@@ -295,7 +295,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="52" width="1301" height="716" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -388,7 +388,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Bubblesort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="67" selection-start="585" selection-end="585" vertical-scroll-proportion="0.92134833">
+        <state line="32" column="32" selection-start="718" selection-end="718" vertical-scroll-proportion="0.7752809">
           <folding />
         </state>
       </provider>
