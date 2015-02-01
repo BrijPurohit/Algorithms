@@ -7,6 +7,7 @@ import javax.swing.plaf.basic.BasicInternalFrameTitlePane;
  * Time: 7:28 PM
  * To change this template use File | Settings | File Templates.
  */
+ // hi htedtdh
 import java.util.Scanner;
 
 public class Binarysearch
